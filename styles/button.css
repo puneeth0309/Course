@@ -1,0 +1,54 @@
+
+.subscribe {
+    background-color: rgb(200, 0, 0);
+    color: white;
+    height: 36px;
+    width: 150px;
+    border-radius:2px;
+    cursor: pointer;
+    margin:20px;
+    padding-top:6px;
+    padding-bottom:6px;
+    transition:background-color 1s;
+
+
+} 
+ .subscribe:hover {
+    background-color:yellow;
+    
+    
+
+
+ } 
+  .subscribe:active{
+    background-color:blue;
+    
+  }
+
+ 
+ 
+ .join {
+    background-color:white;
+    color:rgb(21, 21, 152);
+    height:34px;
+    width:54px;
+    border-radius:2px;
+    border-width:1px;
+
+
+    cursor : pointer;
+    transition:opacity 1s;
+
+ }
+  .join:hover {
+    opacity:0.5;
+  }
+
+     
+
+
+
+
+
+
+
